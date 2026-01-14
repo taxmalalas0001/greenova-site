@@ -28,11 +28,11 @@ jobs:
           node-version: 20
 
       - name: Install dependencies
-        working-directory: ./client
+        working-directory: ./
         run: npm install
 
       - name: Build
-        working-directory: ./client
+        working-directory: ./
         run: npm run build
 
       - name: Upload artifact
