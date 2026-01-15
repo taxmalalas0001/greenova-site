@@ -5,7 +5,7 @@ export default function App() {
 
   return (
     <div 
-      className="size-full flex items-center justify-center p-4 sm:p-8"
+      className="min-h-screen w-full flex items-center justify-center p-4 sm:p-8"
       style={{ 
         background: 'linear-gradient(to bottom right, #2b2620, #3a342a)'
       }}
