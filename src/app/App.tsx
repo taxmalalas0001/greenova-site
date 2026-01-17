@@ -114,7 +114,7 @@ export default function App() {
                   className="text-lg sm:text-xl text-[#ffb380] font-semibold"
                   style={{ fontFamily: "'Inter', sans-serif" }}
                 >
-                  Git Repository (WORK IN PROGRESS)
+                  Git Repository
                 </h3>
                 <a
                   href="https://git.greenova.xyz"
