@@ -165,11 +165,11 @@ export default function App() {
                   Email
                 </h3>
                 <a
-                  href="mailto:taxmalalas0001@proton.me"
+                  href="mailto:greenova@greenova.xyz"
                   className="text-sm sm:text-base text-[#ffb380] hover:text-[#ffc999] underline break-words inline-block"
                   style={{ fontFamily: "'Inter', sans-serif" }}
                 >
-                  taxmalalas0001@proton.me
+                  greenova@greenova.xyz
                 </a>
               </div>
             </div>
