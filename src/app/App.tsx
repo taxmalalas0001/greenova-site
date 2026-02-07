@@ -112,7 +112,6 @@ export default function App() {
                   My personal Git repository with various projects and contributions
                 </p>
               </div>
-            </div>
           ) : (
             <div key="contact" className="space-y-4 sm:space-y-6 animate-[fadeIn_0.3s_ease-in]">
               <p 
