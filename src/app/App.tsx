@@ -69,9 +69,8 @@ export default function App() {
               >
                 Hi! I'm Taxiarchis (aka Greenova Mapper), a passionate developer and technology enthusiast. 
                 I love building projects that bring communities together and exploring the endless 
-                possibilities of open-source software. When I'm not coding, you'll find me diving 
-                into Linux systems, experimenting with new tech, or managing game servers 
-                for Oreon linux.
+                possibilities of open-source software. When I'm not gaming, you'll find me experimenting with linux OS'es,
+                helping contribute to AlmaLinux or even manage game servers.
               </p>
               <p 
                 className="text-[#d4d4d4] text-sm sm:text-base leading-relaxed"
@@ -90,25 +89,6 @@ export default function App() {
                   className="text-lg sm:text-xl text-[#ffb380] font-semibold"
                   style={{ fontFamily: "'Inter', sans-serif" }}
                 >
-                  Oreon MC Server
-                </h3>
-                <a
-                  href="https://www.oreonmc.org"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="text-sm sm:text-base text-[#ffb380] hover:text-[#ffc999] underline break-words inline-block"
-                  style={{ fontFamily: "'Inter', sans-serif" }}
-                >
-                  www.oreonmc.org
-                </a>
-                <p 
-                  className="text-[#d4d4d4] text-sm sm:text-base"
-                  style={{ fontFamily: "'Inter', sans-serif" }}
-                >
-                  The official Minecraft server for the Oreon Linux community
-                </p>
-              </div>
-
               <div className="space-y-2">
                 <h3 
                   className="text-lg sm:text-xl text-[#ffb380] font-semibold"
@@ -130,21 +110,6 @@ export default function App() {
                   style={{ fontFamily: "'Inter', sans-serif" }}
                 >
                   My personal Git repository with various projects and contributions
-                </p>
-              </div>
-
-              <div className="space-y-2">
-                <h3 
-                  className="text-lg sm:text-xl text-[#ffb380] font-semibold"
-                  style={{ fontFamily: "'Inter', sans-serif" }}
-                >
-                  Oreon Mobile
-                </h3>
-                <p 
-                  className="text-[#d4d4d4] text-sm sm:text-base"
-                  style={{ fontFamily: "'Inter', sans-serif" }}
-                >
-                  The Mobile Version of Oreon Linux
                 </p>
               </div>
             </div>
